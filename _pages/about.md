@@ -11,5 +11,5 @@ redirect_from:
 
 🔬 My research interests are in developing and applying Deep Learning technologies to Industrial Engineering.
 
-Currently I am working on Deep learning applications in Supply Chain Risk Management.
+🛠️ Currently I am working on Deep learning applications in Supply Chain Risk Management.
 
