@@ -9,4 +9,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a Ph.D. candidate at the Texas A&M University, College Station.
 
-🔬 My research interests are in developing and applying Deep Learning technologies to Indusrial Engineering.
+🔬 My research interests are in developing and applying Deep Learning technologies to Industrial Engineering.
+
+Currently I am working on Deep learning applications in Supply Chain Risk Management.
+
