@@ -21,7 +21,7 @@ repository               : "roopharshit/roopharshit.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/IMG_3968.png"
+  avatar           : "IMG_3968.png"
   name             : "Roop Vankayalapati"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, Deep learning"
