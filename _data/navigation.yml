@@ -16,6 +16,7 @@ main:
       
   - title: "CV"
     url: /files/Resume.pdf
+    target: "_blank"
     
   #- title: "Portfolio"
   #  url: /portfolio/
